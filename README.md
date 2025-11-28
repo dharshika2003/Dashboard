@@ -1,23 +1,31 @@
-Dashboard Management System
+# 📊 Dashboard Management System
 
-A full-stack dashboard application built with React, Tailwind CSS, React Router, and a FastAPI backend connected to PostgreSQL. The platform provides an efficient and responsive interface for managing data, navigating views, and interacting with backend services.
+A full-stack dashboard application built with **React**, **Tailwind CSS**, **React Router**, and a **FastAPI backend** connected to **PostgreSQL**. The system provides responsive data visualization, smooth navigation, and reliable backend communication.
 
-🚀 Features
+---
 
-Fully responsive multi-page dashboard UI
-Fast routing using React Router
-Backend API built with FastAPI
-PostgreSQL database integration
-Tested and verified using Postman
-Optimized UI and API communication for smooth user experience
+## 🚀 Features
 
-🛠️ Tech Stack
-Layer	Technology
-Frontend	React, Tailwind CSS, Flowbite, React Router
-Backend	FastAPI
-Database	PostgreSQL
-Testing	Postman
+- Responsive multi-page dashboard UI  
+- Fast navigation using React Router  
+- Backend built with FastAPI  
+- PostgreSQL database integration  
+- API testing and validation using Postman  
+- Smooth UI and optimized API interaction  
 
-📬 API Testing
+---
+
+## 🛠 Tech Stack
+
+| Layer      | Tools & Frameworks |
+|------------|--------------------|
+| Frontend   | React, Tailwind CSS, Flowbite, React Router |
+| Backend    | FastAPI |
+| Database   | PostgreSQL |
+| Testing    | Postman |
+
+---
+
+## 📬 API Testing
 
 All API endpoints were tested and validated using Postman.
