@@ -1,0 +1,50 @@
+[
+  {
+    "updateLogId": 1,
+    "clientId": 1,
+    "releaseId": 1761815527137,
+    "installedAt": "2025-10-31T11:44:26.370303+00:00",
+    "status": "completed",
+    "client": {
+      "clientId": 1,
+      "name": "Default Client"
+    },
+    "location": null
+  },
+  {
+    "updateLogId": 2,
+    "clientId": 1,
+    "releaseId": 1761815527138,
+    "installedAt": "2025-10-31T11:44:59.671656+00:00",
+    "status": "completed",
+    "client": {
+      "clientId": 1,
+      "name": "Default Client"
+    },
+    "location": null
+  },
+  {
+    "updateLogId": 3,
+    "clientId": 1,
+    "releaseId": 1761815527139,
+    "installedAt": "2025-10-31T11:46:18.623953+00:00",
+    "status": "completed",
+    "client": {
+      "clientId": 1,
+      "name": "Default Client"
+    },
+    "location": null
+  },
+  {
+    "updateLogId": 4,
+    "clientId": 1,
+    "releaseId": 1761815527140,
+    "installedAt": "2025-10-31T12:21:09.730561+00:00",
+    "status": "completed",
+    "client": {
+      "clientId": 1,
+      "name": "Default Client"
+    },
+    "location": null
+  }
+]

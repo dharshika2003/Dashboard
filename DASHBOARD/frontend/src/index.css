@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@plugin "daisyui";
+ 
+ 
+
+:root {
+  --color-primary: #008dcd;
+  --color-primary-light: #33a7e0;
+  --color-primary-dark: #006fa1;
+
+  --color-bg: #ffffff;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-border: #e0e0e0;
+
+  --color-error: #e74c3c;
+  --color-success: #27ae60;
+  --color-warning: #f39c12;
+}
+
+

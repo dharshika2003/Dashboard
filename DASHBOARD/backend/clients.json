@@ -1,0 +1,39 @@
+[
+  {
+    "clientId": 1,
+    "name": "TechCorp LTD.",
+    "primaryContact": "Alice Johnson",
+    "email": "alice@example.com",
+    "billingInfo": "Standard monthly billing",
+    "createdAt": "2025-01-10",
+    "locations": [
+      {
+        "clientLocationId": 1,
+        "address": "123 Street",
+        "city": "New York",
+        "country": "USA"
+      }
+    ],
+    "lastModified": "2025-11-06T11:46:18.586329+00:00",
+    "productIds": [],
+    "releaseIds": [],
+    "updateLogIds": []
+  },
+  {
+    "clientId": 3,
+    "name": "GlobalTech Inc.",
+    "primaryContact": "Phil Dunphy",
+    "email": "phildunphy@gmail.com",
+    "billingInfo": "Premium annual billing",
+    "createdAt": "2025-10-30",
+    "locations": [
+      {
+        "clientLocationId": 1761823708149,
+        "address": "Street: 456 Market St",
+        "city": "Chicago",
+        "country": "USA"
+      }
+    ],
+    "lastModified": "2025-10-30T11:28:28.465450+00:00"
+  }
+]

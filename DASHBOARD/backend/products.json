@@ -1,0 +1,108 @@
+[
+  {
+    "productId": 1,
+    "name": "Analytics Pro",
+    "sku": "ANPR-001-78-4546fgefgbv",
+    "description": "Advanced analytics suite for business intelligence and data visualization. ",
+    "createdAt": "2023-01-15T00:00:00Z",
+    "updatedAt": "2025-10-31T09:26:27.846698+00:00",
+    "status": "Published",
+    "releases": [
+      {
+        "releaseId": 1,
+        "version": "2.1.0",
+        "status": "Published",
+        "releaseDate": "2023-10-15T00:00:00Z",
+        "releaseType": "major",
+        "notes": "Introduced new AI-driven analytics features."
+      }
+    ],
+    "licenses": [
+      {
+        "licenseKey": 1,
+        "type": "subscription",
+        "status": "active",
+        "startDate": "2023-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "client": {
+          "name": "Client Corp"
+        }
+      }
+    ],
+    "lastModified": "2025-10-31T09:26:27.846714+00:00"
+  },
+  {
+    "productId": 2,
+    "name": "CRM Suite - 1",
+    "sku": "CRM5-02",
+    "description": "Customer relationship management tool for mid-sized businesses.  ",
+    "createdAt": "2023-03-01T00:00:00Z",
+    "updatedAt": "2023-09-20T00:00:00Z",
+    "status": "Draft",
+    "releases": [
+      {
+        "releaseId": 2,
+        "version": "1.0.0",
+        "status": "Draft",
+        "releaseDate": "2023-09-30T00:00:00Z",
+        "releaseType": "service_pack",
+        "notes": "Initial release with core CRM functionalities."
+      }
+    ],
+    "licenses": [
+      {
+        "licenseKey": 2,
+        "type": "subscription",
+        "status": "inactive",
+        "startDate": "2023-03-01T00:00:00.000Z",
+        "endDate": "2024-03-01T00:00:00.000Z",
+        "client": {
+          "name": "CRM Client Inc."
+        }
+      }
+    ],
+    "lastModified": "2025-10-28T05:39:58.514735+00:00"
+  },
+  {
+    "productId": 3,
+    "name": "Email Marketing",
+    "sku": "EMKT-003-07",
+    "description": "Automated email campaigns with analytics and segmentation. ",
+    "createdAt": "2023-04-10T00:00:00Z",
+    "updatedAt": "2023-10-05T00:00:00Z",
+    "status": "Published",
+    "releases": [
+      {
+        "releaseId": 3,
+        "version": "3.0.2",
+        "status": "Published",
+        "releaseDate": "2023-10-05T00:00:00Z",
+        "releaseType": "patch",
+        "notes": "Fixed minor bugs and improved email deliverability."
+      }
+    ],
+    "licenses": [
+      {
+        "licenseKey": 3,
+        "type": "perpetual",
+        "status": "active",
+        "startDate": "2023-04-10 ",
+        "endDate": "2024-01-01 ",
+        "client": {
+          "name": "Marketing Co."
+        }
+      }
+    ],
+    "lastModified": "2025-10-27T12:08:59.090153+00:00"
+  },
+  {
+    "name": "Pranati Technologies IPTV Solutions",
+    "sku": "PTIPTV-EN01",
+    "description": "IPTV Solution for Controlled Environment ",
+    "createdAt": "2025-10-25T07:35:35.212991+00:00",
+    "lastModified": "2025-10-27T12:09:04.379629+00:00",
+    "productId": 5,
+    "releases": [],
+    "licenses": []
+  }
+]

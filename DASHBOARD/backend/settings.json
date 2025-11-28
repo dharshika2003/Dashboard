@@ -1,0 +1,44 @@
+{
+  "user": {
+    "userId": 1,
+    "clientId": 123,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "passwordHash": "hashed_password...",
+    "role": "admin"
+  },
+  "notifications": [
+    {
+      "notificationId": 1,
+      "userId": 1,
+      "type": "release_published",
+      "message": "New release v2.1.0 for Analytics Pro is now available.",
+      "isRead": false,
+      "createdAt": "2023-10-15T12:00:00Z"
+    },
+    {
+      "notificationId": 2,
+      "userId": 1,
+      "type": "license_expired",
+      "message": "Your subscription for CRM Suite expires in 7 days. Renew now.",
+      "isRead": true,
+      "createdAt": "2023-10-10T09:30:00Z"
+    },
+    {
+      "notificationId": 3,
+      "userId": 1,
+      "type": "update_available",
+      "message": "Security patch v1.9.5 is ready for installation.",
+      "isRead": false,
+      "createdAt": "2023-10-05T14:45:00Z"
+    },
+    {
+      "notificationId": 4,
+      "userId": 1,
+      "type": "system_alert",
+      "message": "System maintenance scheduled for tomorrow at 2 AM UTC.",
+      "isRead": true,
+      "createdAt": "2023-10-01T18:20:00Z"
+    }
+  ]
+}

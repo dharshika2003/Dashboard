@@ -1,0 +1,80 @@
+[
+  {
+    "releaseId": 1761644843281,
+    "productId": 2,
+    "version": "1.0.0",
+    "releaseType": "minor",
+    "status": "draft",
+    "releaseDate": "2025-10-28T09:47:23.281Z",
+    "notes": "",
+    "product": {
+      "productId": 2,
+      "name": "CRM Suite - 1",
+      "lastModified": "2025-10-28T05:39:58.514735+00:00"
+    },
+    "artifacts": [],
+    "updateLogs": [],
+    "dependencies": [],
+    "lastModified": "2025-10-28T09:47:23.284198+00:00"
+  },
+  {
+    "releaseId": 1762487148504,
+    "productId": 1,
+    "version": "1.0.0",
+    "releaseType": "minor",
+    "status": "draft",
+    "releaseDate": "2025-11-07T03:45:48.504Z",
+    "notes": "",
+    "artifacts": [
+      {
+        "artifactId": 1,
+        "releaseId": 1762487148504,
+        "fileUrl": "https://example.com/new-artifact.bin",
+        "hash": "sha256:newhash",
+        "signature": null,
+        "size": 624183,
+        "createdAt": "2025-11-07T03:45:49.368Z"
+      }
+    ],
+    "updateLogs": [
+      {
+        "updateLogId": 1,
+        "clientId": 999,
+        "releaseId": 1762487148504,
+        "clientLocationId": null,
+        "installedAt": "2025-11-07T03:45:50.721Z",
+        "status": "in_progress",
+        "client": {
+          "clientId": 999,
+          "name": "New Client",
+          "lastModified": null
+        },
+        "location": null
+      }
+    ],
+    "dependencies": [
+      {
+        "releaseDependencyId": 1,
+        "releaseId": 1762487148504,
+        "dependsOnReleaseId": 777,
+        "dependsOn": {
+          "releaseId": 777,
+          "productId": 1,
+          "version": "3.1.4",
+          "releaseType": "patch",
+          "status": "draft",
+          "releaseDate": "2025-11-07T03:45:51.776Z",
+          "notes": "Generated dep",
+          "product": {
+            "productId": 1,
+            "name": "Analytics Pro"
+          },
+          "artifacts": [],
+          "updateLogs": [],
+          "dependencies": []
+        }
+      }
+    ],
+    "lastModified": "2025-11-07T03:45:51.792374+00:00"
+  }
+]

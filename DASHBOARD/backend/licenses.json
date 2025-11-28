@@ -1,0 +1,90 @@
+[
+  {
+    "licenseId": 1,
+    "clientId": 123,
+    "productId": 1,
+    "licenseKey": "V1WB9U3T-B8FXMD29",
+    "type": "subscription",
+    "startDate": "2023-10-01",
+    "endDate": "2024-12-31",
+    "status": "active",
+    "client": {
+      "id": 123,
+      "name": "Example Client Corp"
+    },
+    "product": {
+      "id": 1,
+      "name": "Analytics Pro ",
+      "sku": "ANPR-001"
+    },
+    "audits": [
+      {
+        "licenseAuditId": 1,
+        "action": "activated",
+        "timestamp": "2023-10-01T10:00:00Z"
+      },
+      {
+        "licenseAuditId": 2,
+        "action": "renewed",
+        "timestamp": "2024-01-15T14:30:00Z"
+      },
+      {
+        "licenseAuditId": 3,
+        "action": "expired",
+        "timestamp": "2024-12-31T00:00:00Z"
+      },
+      {
+        "licenseAuditId": 4,
+        "action": "regenerated key",
+        "timestamp": "2025-10-30T11:12:00.389Z"
+      },
+      {
+        "licenseAuditId": 5,
+        "action": "regenerated key",
+        "timestamp": "2025-10-30T11:15:49.548Z"
+      },
+      {
+        "licenseAuditId": 6,
+        "action": "regenerated key",
+        "timestamp": "2025-10-30T11:17:24.516Z"
+      },
+      {
+        "licenseAuditId": 7,
+        "action": "regenerated key",
+        "timestamp": "2025-10-30T11:20:30.356Z"
+      },
+      {
+        "licenseAuditId": 8,
+        "action": "regenerated key",
+        "timestamp": "2025-11-08T04:16:03.573Z"
+      }
+    ],
+    "lastModified": "2025-11-08T04:16:03.579283+00:00"
+  },
+  {
+    "licenseId": 2,
+    "clientId": 124,
+    "productId": 2,
+    "licenseKey": "5F6G7H8I",
+    "type": "perpetual",
+    "startDate": "2024-01-01",
+    "endDate": "2026-12-31",
+    "status": "active",
+    "client": {
+      "id": 124,
+      "name": "Another Client LLC"
+    },
+    "product": {
+      "id": 2,
+      "name": "Data Wizard",
+      "sku": "DW-002"
+    },
+    "audits": [
+      {
+        "licenseAuditId": 4,
+        "action": "activated",
+        "timestamp": "2024-01-01T09:00:00Z"
+      }
+    ]
+  }
+]
