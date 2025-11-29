@@ -29,3 +29,13 @@ A full-stack dashboard application built with **React**, **Tailwind CSS**, **Rea
 ## 📬 API Testing
 
 All API endpoints were tested and validated using Postman.
+
+---
+
+## 📁 Google Drive Resources
+
+| Type   | Link |
+|--------|------|
+| Folder | [Google Drive](https://drive.google.com/file/d/1bSFyKPJ2rx6gVf8ld2_RP3rHi7oHBCcL/view?usp=sharing) |
+
+---
