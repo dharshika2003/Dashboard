@@ -32,7 +32,7 @@ All API endpoints were tested and validated using Postman.
 
 ---
 
-## 📁 Google Drive Resources
+## 📁 Google Drive Link
 
  Link : [Google Drive](https://drive.google.com/file/d/1bSFyKPJ2rx6gVf8ld2_RP3rHi7oHBCcL/view?usp=sharing) 
 
